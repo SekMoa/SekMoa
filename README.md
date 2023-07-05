@@ -9,8 +9,9 @@
 
 ⚡ Fun fact: ...I am a triplet!</p>
 
-  <h2>👩🏾‍💻 Academic Cybersecurity and Infromation Assurance Projects: </h2>
 
+
+ <h2>👩🏾‍💻 Academic Cybersecurity and Infromation Assurance Projects:</h2>
 
   
   <h2> 🤳🏾 Connect with me:</h2>
