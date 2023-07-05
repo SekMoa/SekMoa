@@ -5,14 +5,20 @@
 
 🌱 I’m currently learning Ethical Hacking and Penetration Testing
 
-💬 Ask me about my journey from a career in Nursing to an advance degree in Cybersecurity!
+💬 Ask me about my journey from a career in Nursing to an advanced degree in Cybersecurity!
 
 ⚡ Fun fact ...I am a triplet!</p>
 
 
 
  <h2>👩🏾‍💻 Academic Cybersecurity and Infromation Assurance Projects:</h2>
+<p>
 
+ - Cybersecurity Architecture and Engineering  / Management
+
+   - Conducting Vulnerability Assessments and Port Scanning <a href= "https://github.com/SekMoa/Assignment-1">Assignment 1
+   - Performing Security Assessment Reports and Implementing DREAD Risk Assessment Model to Evaluate and Prioritize Threats and Vulnerabilities <a href="https://github.com/SekMoa/Assignment-2">Assignment 2
+</p>
   
   <h2> 🤳🏾 Connect with me:</h2>
 
