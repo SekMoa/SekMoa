@@ -7,7 +7,7 @@
 
 💬 Ask me about my journey from a career in Nursing to an advance degree in Cybersecurity!
 
-⚡ Fun fact: ...I am a triplet!</p>
+⚡ Fun fact ...I am a triplet!</p>
 
 
 
