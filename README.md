@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning Ethical Hacking and Penetration Testing
 
-💬 Ask me about my journey from a career in Nursing to an advanced degree in Cybersecurity!
+💬 Ask me about my journey from a Direct-Entry MSN student to an advanced degree in Cybersecurity!
 
 ⚡ Fun fact ...I am a triplet!</p>
 
